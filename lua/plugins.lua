@@ -8,10 +8,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
 
 Plug('neoclide/coc.nvim', {branch = 'release'})
-Plug 'nvim-tree/nvim-web-devicons'
 Plug 'nvim-lualine/lualine.nvim'
-Plug 'nvim-tree/nvim-web-devicons'
-Plug 'nvim-tree/nvim-tree.lua'
 Plug('catppuccin/nvim', {as = 'catppuccin'})
 Plug 'vim-test/vim-test'
 Plug 'ctrlpvim/ctrlp.vim'
