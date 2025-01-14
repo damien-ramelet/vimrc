@@ -3,6 +3,7 @@ local Plug = vim.fn['plug#']
 vim.call('plug#begin')
 
 Plug 'tpope/vim-surround'
+Plug 'tpope/vim-fugitive'
 
 Plug 'airblade/vim-gitgutter'
 
